@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "si-emoji",
+  "name": "祀的表情包",
+  "version": "1.0.0",
+  "description": "《明日方舟：终末地》祀的 72 张动态表情，适合日常聊天回复。",
+  "author": "skddddddddd",
+  "homepage": "https://github.com/skddddddddd/SI-emoji",
+  "license": "All Rights Reserved",
+  "tags": [
+    "明日方舟",
+    "终末地",
+    "祀",
+    "表情包",
+    "动态表情"
+  ],
+  "icon": "previews/cover.png",
+  "previews": [
+    "previews/cover.png",
+    "previews/preview-01.jpg",
+    "previews/preview-02.jpg",
+    "previews/preview-03.jpg",
+    "previews/preview-04.jpg",
+    "previews/preview-05.jpg",
+    "previews/preview-06.jpg",
+    "previews/preview-07.jpg",
+    "previews/preview-08.jpg"
+  ],
+  "source": {
+    "type": "github",
+    "repo": "skddddddddd/SI-emoji",
+    "ref": "main",
+    "subpath": "."
+  },
+  "categories": {
+    "daily": {
+      "description": "祀的日常反应表情，适合聊天中的问候、吐槽、开心、无奈、催促等日常场景。"
+    }
+  }
+}
